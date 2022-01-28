@@ -1,0 +1,10 @@
+client_004.champsimtrace.xz
+spec_gcc_001.champsimtrace.xz
+server_003.champsimtrace.xz
+client_005.champsimtrace.xz
+server_011.champsimtrace.xz
+server_004.champsimtrace.xz
+client_008.champsimtrace.xz
+client_003.champsimtrace.xz
+server_013.champsimtrace.xz
+server_039.champsimtrace.xz

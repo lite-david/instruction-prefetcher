@@ -1,0 +1,7 @@
+spec_gcc_001.champsimtrace.xz
+spec_gcc_002.champsimtrace.xz
+spec_gcc_003.champsimtrace.xz
+spec_gobmk_001.champsimtrace.xz
+spec_gobmk_002.champsimtrace.xz
+spec_perlbench_001.champsimtrace.xz
+spec_x264_001.champsimtrace.xz

@@ -1,0 +1,8 @@
+client_001.champsimtrace.xz
+client_002.champsimtrace.xz
+client_003.champsimtrace.xz
+client_004.champsimtrace.xz
+client_005.champsimtrace.xz
+client_006.champsimtrace.xz
+client_007.champsimtrace.xz
+client_008.champsimtrace.xz
